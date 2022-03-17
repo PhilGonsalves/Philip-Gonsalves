@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Personal Background
 
-You can use the [editor on GitHub](https://github.com/PhilGonsalves/pgonsalves.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+I am a formerly retired teacher and administroator with 30+ years of experience in education. Born and raised in Oakland CA, with a passion for providing positive educational experience for all students with a focus for developing STEM experience particularly focused on underserved students. 
+ 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
